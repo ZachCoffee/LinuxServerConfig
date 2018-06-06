@@ -9,7 +9,7 @@ You will secure your server from a number of attack vectors, install and configu
 ___________________________________________________________________
 
 Amazon Lightsail Virtual Machine Details:
-Public IP:18.188.228.241
+Public IP:18.18.218.1.37
 SSH Port: 2200
 Web Application URL: http://ec2-18-218-1-37.us-east-2.compute.amazonaws.com
 
